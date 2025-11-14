@@ -1,4 +1,12 @@
-# Linux Kernel Memory Buffer
+
+## KubeCon NA, Atlanta, US, Nov 2025
+
+### Deep Dive: Handling Kubernetes Memory Pressure & Achieving Workload Stability With NodeSwap 
+slides here:  [[PUBLIC] Deep Dive_ Handling Kubernetes Memory Pressure & Achieving Workload Stability With NodeSwap.pptx.pdf](https://github.com/user-attachments/files/23554082/PUBLIC.Deep.Dive_.Handling.Kubernetes.Memory.Pressure.Achieving.Workload.Stability.With.NodeSwap.pptx.pdf)
+
+
+
+### Linux Kernel Memory Buffer
 
 ```
 // From a 1.32 GKE node -- 8GB ubuntu 
